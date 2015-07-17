@@ -9,6 +9,7 @@ Using ADComando (the loadcell branch) turn the motor to increase tension on the 
 Improvements include gluing many of the acrylic pieces together to allow for a tighter fix and no unnecessary friction with the tape against the wheel.
 ### 3. Samurai 2
 Samurai 2 is almost fully built, but requires the driving motor to be run by the ADComando arduino and maybe putting in a new slip clutch / testing said slip clutch.
+
 1. swap current bigEasy driver to ADComando L6470 Autodriver.
 2. test slip clutch using rig to get the tension required (ask Brett for exact numbers)
 3. Use ADComando to write a script to control the movement of the tape along the samurai and verify that it moves in set increments and passes any precision tests using the point grey camera.
